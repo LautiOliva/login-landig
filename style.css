@@ -52,44 +52,11 @@ body {
 }
 
 main {
-  /* height: 100vh; */
-  background-image: linear-gradient(
-    to right bottom,
-    #000000,
-    #2c0e1e,
-    #4c103f,
-    #64196d,
-    #6a2fa6,
-    #5c53c8,
-    #4273e6,
-    #0091ff,
-    #00b1ff,
-    #00ccff,
-    #00e5fd,
-    #5ffbf1
-  );
+  background-color: salmon;
   height: 400px;
   width: 270px;
-
   padding-top: 30px;
   padding-left: 40px;
   position: absolute;
   margin: 0 auto;
 }
-
-/* body{
-    border: 1px solid red;
-    width: 300px;
-}
-
-html{
-    border: 2px solid black;
-} */
-
-/* body{
-    background-image: linear-gradient(to right bottom, #000000, #2c0e1e, #4c103f, #64196d, #6a2fa6, #5c53c8, #4273e6, #0091ff, #00b1ff, #00ccff, #00e5fd, #5ffbf1);
-}
-
-html{
-    background-color: #000000;
-} */
