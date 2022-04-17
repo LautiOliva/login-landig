@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.entrar {
+  padding: 10px;
+  background-color: darkblue;
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+  border: 10px darkblue solid;
+  border-radius: 20px;
+}
+
+img {
+  max-width: 100px;
+  margin-left: 40px;
+}
+
+.email {
+  width: 180px;
+  padding: 10px;
+}
+
+.password {
+  width: 180px;
+  padding: 10px;
+}
+
+.botonContra {
+  margin-top: 20px;
+  margin-left: 30px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* body{
+    border: 1px solid red;
+    width: 300px;
+}
+
+html{
+    border: 2px solid black;
+} */
+
+/* body{
+    background-image: linear-gradient(to right bottom, #000000, #2c0e1e, #4c103f, #64196d, #6a2fa6, #5c53c8, #4273e6, #0091ff, #00b1ff, #00ccff, #00e5fd, #5ffbf1);
+}
+
+html{
+    background-color: #000000;
+} */
